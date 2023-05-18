@@ -1,0 +1,41 @@
+body{
+	background-color: rgba(107, 197, 255, 0.5);
+}
+
+.giris_kismi{
+	position: absolute;
+	top: 22%;
+	left: 40%;
+	float: left;
+
+	height: 140px;
+	width: 240px;
+	border: solid;
+
+	align-self: center;
+}
+
+.k_adi{
+	margin: 10px;
+}
+input[type="text"]{
+	font-size: 20px;
+	width: 210px;
+}
+input[type="password"]{
+	font-size: 20px;
+	width: 210px;
+}
+.sifre{
+	margin: 10px;
+}
+input[type="submit"]{
+	font-size: 20px;
+}
+.giris_buton{
+	position: absolute;
+	top: 37%;
+	left: 48%;
+	float: left;
+	font-size: 24px;
+}

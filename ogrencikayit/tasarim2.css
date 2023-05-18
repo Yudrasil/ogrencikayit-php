@@ -1,0 +1,26 @@
+.tablom{
+	position: absolute;
+	float: left;
+	left: 17%;
+
+	/*BU KISMI YAZMAZSAN TABLO BOYUTU AYARLANMMIYOR*/
+	display: block;
+	height: 400px;	
+	overflow: scroll;
+	border-collapse: collapse;
+}
+
+.kayit_bolum{
+	position: absolute;
+	float: left;
+	left: 30%;
+	top: 69%;
+
+
+	background-color: darkred;
+}
+button[type="submit"]{
+	position: absolute;
+	width: 100px;
+	height: 75px;
+}
